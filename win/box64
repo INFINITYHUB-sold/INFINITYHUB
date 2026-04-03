@@ -1,7 +1,0 @@
-{box64_package_permission:true}
-
-      {}
-[{https/http_protocol}]
-       <daemon>
-  {} 
--
