@@ -4,6 +4,7 @@ INFINITYHUB
 No limits. No boundaries. Just Infinity.
 🚀 About INFINITYHUB
 INFINITYHUB is a centralized, scalable, and high-performance repository designed to deliver unlimited tools, scripts, packages, and system-level utilities in one place.
+
 It is built for developers, power users, and creators who want a flexible platform to share, distribute, and execute resources without restriction.
 ⚡ Core Features
 📦 Universal Package Hub
